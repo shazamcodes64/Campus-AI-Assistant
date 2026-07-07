@@ -1,0 +1,22 @@
+# Core dependencies (existing)
+streamlit
+sentence-transformers
+faiss-cpu
+rank-bm25
+requests
+numpy
+tiktoken
+
+# Enhanced PDF extraction
+pymupdf>=1.23.0  # Better PDF text extraction (replaces PyPDF2)
+PyPDF2  # Fallback for basic extraction
+
+# OCR for images and diagrams
+pytesseract>=0.3.10  # OCR engine wrapper
+Pillow>=10.0.0  # Image processing
+
+# Table extraction
+pdfplumber>=0.10.0  # Advanced table extraction
+
+# Optional: For better OCR results
+# pdf2image  # Convert PDF pages to images for OCR

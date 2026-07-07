@@ -1,0 +1,19 @@
+{
+  "ollama_url": "http://localhost:11434",
+  "model_name": "llama3:latest",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "faq_threshold": 0.8,
+  "doc_threshold": 0.5,
+  "high_similarity_threshold": 0.85,
+  "max_tokens": 500,
+  "temperature": 0.3,
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "embedding_batch_size": 32,
+  "faq_cache_ttl_seconds": 3600,
+  "queue": {
+    "max_queue_size": 100,
+    "max_concurrent_workers": 10,
+    "default_timeout": 30.0
+  }
+}

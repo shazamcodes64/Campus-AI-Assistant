@@ -1,0 +1,9 @@
+# chunking.py
+def chunk_text(text, chunk_size=400, overlap=80):
+    chunks = []
+    start = 0
+    while start < len(text):
+        end = start + chunk_size
+        chunks.append(text[start:end])
+        start = end - overlap
+    return chunks

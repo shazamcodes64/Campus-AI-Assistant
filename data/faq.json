@@ -1,0 +1,19 @@
+{
+  "faqs": [
+    {
+      "id": "faq_001",
+      "question": "What is the placement process?",
+      "answer": "The placement process typically involves multiple stages: application submission, aptitude tests, technical interviews, HR interviews, and final selection. Students must maintain minimum CGPA requirements and complete all required courses."
+    },
+    {
+      "id": "faq_002", 
+      "question": "What are the course requirements?",
+      "answer": "Course requirements vary by program. Generally, students must complete core courses, electives, laboratory work, and a final project or thesis. Check your specific program syllabus for detailed requirements."
+    },
+    {
+      "id": "faq_003",
+      "question": "How do I access the syllabus?",
+      "answer": "The syllabus is available through the course portal, academic office, or from your course instructor. It contains detailed information about course objectives, topics, evaluation criteria, and schedules."
+    }
+  ]
+}

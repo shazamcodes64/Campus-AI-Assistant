@@ -1,0 +1,11 @@
+{"timestamp": "2026-01-21T05:48:08.866883", "user_query": "Explain Hawking radiation", "matched_faq_id": null, "confidence": 0.06411734968423843, "decision": "out_of_scope"}
+{"timestamp": "2026-01-21T05:48:08.889320", "user_query": "Who will win IPL 2030?", "matched_faq_id": null, "confidence": 0.039273951202631, "decision": "out_of_scope"}
+{"timestamp": "2026-01-21T05:51:27.310432", "user_query": "Explain Hawking radiation", "matched_faq_id": null, "confidence": 0.06411734968423843, "decision": "out_of_scope"}
+{"timestamp": "2026-01-21T05:51:27.338739", "user_query": "Who will win IPL 2030?", "matched_faq_id": null, "confidence": 0.039273951202631, "decision": "out_of_scope"}
+{"timestamp": "2026-01-21T05:54:58.555970", "user_query": "What is attendance requirement?", "matched_faq_id": null, "confidence": 0.9779048562049866, "decision": "faq"}
+{"timestamp": "2026-01-21T05:54:58.579662", "user_query": "Explain Hawking radiation", "matched_faq_id": null, "confidence": 0.06411734968423843, "decision": "out_of_scope"}
+{"timestamp": "2026-01-21T05:54:58.602932", "user_query": "Who will win IPL 2030?", "matched_faq_id": null, "confidence": 0.039273951202631, "decision": "out_of_scope"}
+{"timestamp": "2026-01-21T06:27:02.642749", "user_query": "Explain database normalization", "matched_faq_id": null, "confidence": 0.10792821645736694, "decision": "out_of_scope"}
+{"timestamp": "2026-01-21T15:59:07.452110", "user_query": "Explain database normalization", "matched_faq_id": null, "confidence": 0.10792821645736694, "decision": "out_of_scope"}
+{"timestamp": "2026-01-21T17:03:16.289957", "user_query": "Explain database normalization", "matched_faq_id": null, "confidence": 0.10792821645736694, "decision": "out_of_scope"}
+{"timestamp": "2026-01-21T17:05:49.260488", "user_query": "TEST QUESTION", "matched_faq_id": null, "confidence": 0.20591267943382263, "decision": "out_of_scope"}
